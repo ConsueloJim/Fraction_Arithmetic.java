@@ -1,5 +1,5 @@
 /* This file specifies methods for FractionInterface		*/
-/* Do not modify this file!!                  			*/
+
 
 package PJ1;
 
