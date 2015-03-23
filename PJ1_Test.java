@@ -1,7 +1,6 @@
 package PJ1;
 
 /*  This program is used to test PJ1.Fracition class
- *  More info are given in Readme file
  */
 
 import java.util.*;
